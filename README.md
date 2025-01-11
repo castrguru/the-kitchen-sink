@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# The Kitchen Sink by Castr GÜRŲ
 
-## Getting Started
+### https://the-kitchen-sink.castr.guru
 
-First, run the development server:
+A complete low-no code solution for frame building on Farcaster.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+## Benefits
+
+- ✅ Robust Next.js framework
+- ✅ Pre-loaded fonts & icons
+
+
+## Technology Stack
+
+- ✅ HTML5
+- ✅ TypeScript
+- ✅ Tailwind CSS
+- ✅ Universal Docker deployment
+
+
+## 🚀 Project Structure
+
+Inside the project, you'll see the following folders and files:
+
+```text
+├── public/
+├── src/
+│   ├── components/
+│   ├── content/
+│   ├── layouts/
+│   └── pages/
+├── astro.config.mjs
+├── README.md
+├── package.json
+└── tsconfig.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The Kitchen Sink built using Next.js, which looks for `.tsx` or `.ts` files in the `src/` directory. Each page is exposed as a route based on its file name.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Any static assets, like images, can be placed in the `public/` directory.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Licenses
 
-To learn more about Next.js, take a look at the following resources:
+The Kitchen Sink frame kit is DUAL-licensed:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- The source code is available under the [__MIT license__](LICENSE).
+- ALL media assets _(images, audio & video files, etc.)_ are [__CC0 1.0__](https://creativecommons.org/publicdomain/zero/1.0/).
+<br />🌟 __<u>NO</u> ATTRIBUTION REQUIRED .. ENJOY!__ 🌟
